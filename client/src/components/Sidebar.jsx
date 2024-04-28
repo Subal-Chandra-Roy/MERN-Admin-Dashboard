@@ -28,7 +28,6 @@ import {
     AdminPanelSettingsOutlined,
     TrendingUpOutlined,
     PieChartOutlined,
-    ChevronRight
 
 } from "@mui/icons-material";
 
