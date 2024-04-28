@@ -50,7 +50,7 @@ const navItems = [
         icon: <ShoppingCartOutlined/>
     },
     {
-        text: "Customer",
+        text: "Customers",
         icon: <Groups2Outlined/>
     },
     {
